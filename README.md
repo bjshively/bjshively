@@ -18,7 +18,7 @@ Plan outfits for each day of a trip from your own closet, then build a packing l
 
 ## Background
 
-A decade in Developer Experience at Aurora has given me a deep appreciation for building tools and platforms that developers actually want to use. That same obsession with user experience carries over into my indie work — whether it's a pet tracking app or an anxiety journal, I'm always thinking about how to make the experience feel effortless.
+I've spent the last decade at Aurora building tools for developers. Outside of work, I make iOS apps that help with things like caring for pets and tracking anxiety.
 
 ## Tech & Tools
 
